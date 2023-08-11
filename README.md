@@ -2,7 +2,7 @@
 
 Welcome to Food Order App, a responsive React application that allows users to add and remove food items from the cart. The app showcases the use of React portals, modal creation, `useEffect`, and state management using Context API along with `useContext` and `useReducer` hooks.
 
-##Live at:
+## Live at:
 [Example.com](https://www.example.com)
 
 ## Features
@@ -36,11 +36,12 @@ Welcome to Food Order App, a responsive React application that allows users to a
    ```
 
 ##Tech Stack
--React
--React Portals
--React Hooks (useEffect, useContext, useReducer)
--CSS (with responsive design)
--HTML
+
+- React
+- React Portals
+- React Hooks (useEffect, useContext, useReducer)
+- CSS (with responsive design)
+- HTML
 
 ## Contributions
 
