@@ -46,5 +46,6 @@ Welcome to Food Order App, a responsive React application that allows users to a
 
 Contributions are welcome! If you find any issues or improvements, feel free to create a pull request or open an issue.
 
-##License
+## License
+
 This project is licensed under the MIT License.
