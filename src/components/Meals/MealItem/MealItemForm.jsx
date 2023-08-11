@@ -1,12 +1,13 @@
 import { useRef, useState } from "react";
 import Input from "../../UI/Input";
 import classes from "./mealItemForm.module.css";
+
 const MealItemForm = (props) => {
   const [amountIsValid, setAmountIsValid] = useState(true);
   const amountInputRef = useRef();
+
   const onSubmitHandler = (event) => {
     event.preventDefault();
-
     const enteredAmount = amountInputRef.current.value;
     const enteredAmountNumber = +enteredAmount;
     if (
